@@ -1,6 +1,8 @@
 anyio==3.7.1
 asgiref==3.7.2
+cffi==1.15.1
 click==8.1.4
+cryptography==41.0.1
 dataclasses==0.6
 exceptiongroup==1.1.2
 fastapi==0.99.1
@@ -9,6 +11,7 @@ idna==3.4
 immutables==0.19
 mysqlclient==2.2.0
 peewee==3.16.2
+pycparser==2.21
 pydantic==1.10.11
 PyJWT==2.7.0
 PyMySQL==1.1.0
